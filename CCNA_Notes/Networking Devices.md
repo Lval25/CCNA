@@ -1,5 +1,5 @@
-1. NETWORKING DEVICES
-What is a network?
+# 1. NETWORKING DEVICES
+## What is a network?
 
 A computer network is a digital telecommunications network allows NODES to share RESOURCES.
 
